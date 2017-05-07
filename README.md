@@ -1,2 +1,3 @@
-# IndianStatesAndCitiesJson
-Indian states and respective cities json including longitude and latituide information.
+# Indian States And Respective Districts Json.
+Indian states and respective districs json.
+Added Capitals for the states.
