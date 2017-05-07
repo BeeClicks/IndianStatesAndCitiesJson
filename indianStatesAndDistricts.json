@@ -1,0 +1,365 @@
+[
+  {
+    "stateName": "Andaman And Nicobar",
+    "capital": "Port Blair",
+    "districts": [
+      {
+        "name": "Nicobar"
+      },
+      {
+        "name": "North and Middle Andaman"
+      },
+      {
+        "name": "South Andaman"
+      }
+    ]
+  },
+  {
+    "stateName": "Andhra Pradesh",
+    "capital": "Hyderabad",
+    "districts": [
+      {
+        "name": "Anantapur"
+      },
+      {
+        "name": "Chittoor"
+      },
+      {
+        "name": "East Godavari"
+      },
+      {
+        "name": "Guntur"
+      },
+      {
+        "name": "Cuddapah"
+      },
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "Kurnool"
+      },
+      {
+        "name": "Prakasam"
+      },
+      {
+        "name": "Nellore"
+      },
+      {
+        "name": "Srikakulam"
+      },
+      {
+        "name": "Vishakhapatnam"
+      },
+      {
+        "name": "Vizianagaram"
+      },
+      {
+        "name": "West Godavari"
+      }
+    ]
+  },
+    {
+    "stateName": "Arunachal Pradesh",
+    "capital": "Itanagar",
+    "districts": [
+      {
+        "name": "Anjaw"
+      },
+      {
+        "name": "Changlang"
+      },
+      {
+        "name": "Dibang Valley"
+      },
+      {
+        "name": "East Kameng"
+      },
+      {
+        "name": "East Siang"
+      },
+      {
+        "name": "Kurung Kumey"
+      },
+      {
+        "name": "Lohit"
+      },
+      {
+        "name": "Longding"
+      },
+      {
+        "name": "Lower Dibang Valley"
+      },
+      {
+        "name": "Lower Subansiri"
+      },
+      {
+        "name": "Papumpare"
+      },
+      {
+        "name": "Tawang"
+      },
+      {
+        "name": "Tirap"
+      },
+      {
+        "name": "Upper Siang"
+      },
+      {
+        "name": "Upper Subansiri"
+      },
+      {
+        "name": "West Kameng"
+      },
+      {
+        "name": "West Siang"
+      }
+    ]
+  },
+  {
+    "stateName": "Assam",
+    "capital": "Dispur",
+    "districts": [
+      {
+        "name": "Baksa"
+      },
+      {
+        "name": "Barpeta"
+      },
+      {
+        "name": "Biswanath"
+      },
+      {
+        "name": "Bongaigaon"
+      },
+      {
+        "name": "Cachar"
+      },
+      {
+        "name": "Charaideo"
+      },
+      {
+        "name": "Chirang"
+      },
+      {
+        "name": "Darrang"
+      },
+      {
+        "name": "Dhemaji"
+      },
+      {
+        "name": "Dhubri"
+      },
+      {
+        "name": "Dibrugarh"
+      },
+      {
+        "name": "Goalpara"
+      },
+      {
+        "name": "Golaghat"
+      },
+      {
+        "name": "Hailakandi"
+      },
+      {
+        "name": "Hoja"
+      },
+      {
+        "name": "Jorhat"
+      },
+      {
+        "name": "Kamrup Metropolitan"
+      },
+      {
+        "name": "Kamrup"
+      },
+      {
+        "name": "Karbi Anglong"
+      },
+      {
+        "name": "Karimganj"
+      },
+      {
+        "name": "Kokrajhar"
+      },
+      {
+        "name": "Lakhimpur"
+      },
+      {
+        "name": "Majuli"
+      },
+      {
+        "name": "Morigaon"
+      },
+      {
+        "name": "Nagaon"
+      },
+      {
+        "name": "Nalbari"
+      },
+      {
+        "name": "Dima Hasao"
+      },
+      {
+        "name": "Sivasagar"
+      },
+      {
+        "name": "Sonitpur"
+      },
+      {
+        "name": "South Salmara-Mankachar"
+      },
+      {
+        "name": "Tinsukia"
+      },
+      {
+        "name": "Udalguri"
+      },
+      {
+        "name": "West Karbi Anglong"
+      }
+    ]
+  },
+  {
+    "stateName": "Bihar",
+    "capital": "Patna",
+    "districts": [
+      {
+        "name": "Araria"
+      },
+      {
+        "name": "Arwal"
+      },
+      {
+        "name": "Aurangabad"
+      },
+      {
+        "name": "Banka"
+      },
+      {
+        "name": "Begusarai"
+      },
+      {
+        "name": "Bhagalpur"
+      },
+      {
+        "name": "Bhojpur"
+      },
+      {
+        "name": "Buxar"
+      },
+      {
+        "name": "Dhemaji"
+      },
+      {
+        "name": "Darbhanga"
+      },
+      {
+        "name": "Gaya"
+      },
+      {
+        "name": "Gopalganj"
+      },
+      {
+        "name": "Jamui"
+      },
+      {
+        "name": "Jehanabad"
+      },
+      {
+        "name": "Kaimur"
+      },
+      {
+        "name": "Katihar"
+      },
+      {
+        "name": "Khagaria"
+      },
+      {
+        "name": "Kishanganj"
+      },
+      {
+        "name": "Lakhisarai"
+      },
+      {
+        "name": "Madhepura"
+      },
+      {
+        "name": "Madhubani"
+      },
+      {
+        "name": "Munger"
+      },
+      {
+        "name": "Muzaffarpur"
+      },
+      {
+        "name": "Nalanda"
+      },
+      {
+        "name": "Nawada"
+      },
+      {
+        "name": "Pashchim"
+      },
+      {
+        "name": "Champaran"
+      },
+      {
+        "name": "Patna"
+      },
+      {
+        "name": "Purba Champaran"
+      },
+      {
+        "name": "Purnia"
+      },
+      {
+        "name": "Rohtas"
+      },
+      {
+        "name": "Saharsa"
+      },
+      {
+        "name": "Samastipur"
+      },
+      {
+        "name": "Saran"
+      },
+      {
+        "name": "Sheikhpura"
+      },
+      {
+        "name": "Sheohar"
+      },
+      {
+        "name": "Sitamarhi"
+      },
+      {
+        "name": "Siwan"
+      },
+      {
+        "name": "Supaul"
+      },
+      {
+        "name": "Vaishali"
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
