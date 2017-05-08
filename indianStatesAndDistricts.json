@@ -59,7 +59,7 @@
       }
     ]
   },
-    {
+  {
     "stateName": "Arunachal Pradesh",
     "capital": "Itanagar",
     "districts": [
@@ -408,7 +408,7 @@
       {
         "name": "Mahasamund"
       },
-       {
+      {
         "name": "Mungeli"
       },
       {
@@ -484,20 +484,224 @@
         "name": "South Goa"
       }
     ]
+  },
+  {
+    "stateName": "Gujrat",
+    "capital": "Gandhinagar",
+    "districts": [
+      {
+        "name": "Ahmedabad"
+      },
+      {
+        "name": "Amreli"
+      },
+      {
+        "name": "Anand"
+      },
+      {
+        "name": "Aravalli"
+      },
+      {
+        "name": "Banaskantha"
+      },
+      {
+        "name": "Bharuch"
+      },
+      {
+        "name": "Bhavnagar"
+      },
+      {
+        "name": "Botad"
+      },
+      {
+        "name": "Chhota Udaipur"
+      },
+      {
+        "name": "Dahod"
+      },
+      {
+        "name": "Dang"
+      },
+      {
+        "name": "Dwarka"
+      },
+      {
+        "name": "Gandhinagar"
+      },
+      {
+        "name": "Gir Somnath"
+      },
+      {
+        "name": "Jamnagar"
+      },
+      {
+        "name": "Junagadh"
+      },
+      {
+        "name": "Kutch"
+      },
+      {
+        "name": "Kheda"
+      },
+      {
+        "name": "Mahisagar"
+      },
+      {
+        "name": "Mehsana"
+      },
+      {
+        "name": "Morbi"
+      },
+      {
+        "name": "Narmada"
+      },
+      {
+        "name": "Navsari"
+      },
+      {
+        "name": "Panchmahal"
+      },
+      {
+        "name": "Patan"
+      },
+      {
+        "name": "Porbandar"
+      },
+      {
+        "name": "Rajkot"
+      },
+      {
+        "name": "Sabarkantha"
+      },
+      {
+        "name": "Surat"
+      },
+      {
+        "name": "Surendranagar"
+      },
+      {
+        "name": "Tapi"
+      },
+      {
+        "name": "Vadodara"
+      },
+      {
+        "name": "Valsad"
+      }
+    ]
+  },
+  {
+    "stateName": "Haryana",
+    "capital": "Chandigarh",
+    "districts": [
+      {
+        "name": "Ambala"
+      },
+      {
+        "name": "Bhiwani"
+      },
+      {
+        "name": "Charkhi Dadri"
+      },
+      {
+        "name": "Faridabad"
+      },
+      {
+        "name": "Fatehabad"
+      },
+      {
+        "name": "Gurugram"
+      },
+      {
+        "name": "Hisar"
+      },
+      {
+        "name": "Jhajjar"
+      },
+      {
+        "name": "Jind"
+      },
+      {
+        "name": "Kaithal"
+      },
+      {
+        "name": "Karnal"
+      },
+      {
+        "name": "Kurukshetra"
+      },
+      {
+        "name": "Mahendragarh"
+      },
+      {
+        "name": "Nuh"
+      },
+      {
+        "name": "Palwal"
+      },
+      {
+        "name": "Panchkula"
+      },
+      {
+        "name": "Panipat"
+      },
+      {
+        "name": "Rewari"
+      },
+      {
+        "name": "Rohtak"
+      },
+      {
+        "name": "Sirsa"
+      },
+      {
+        "name": "Sonipat"
+      },
+      {
+        "name": "Yamuna Nagar"
+      }
+    ]
+  },
+  {
+    "stateName": "Himachal Pradesh",
+    "capital": "Shimla",
+    "districts": [
+      {
+        "name": "Bilaspur"
+      },
+      {
+        "name": "Chamba"
+      },
+      {
+        "name": "Hamirpur"
+      },
+      {
+        "name": "Kangra"
+      },
+      {
+        "name": "Kinnaur"
+      },
+      {
+        "name": "Kullu"
+      },
+      {
+        "name": "Lahaul and Spiti"
+      },
+      {
+        "name": "Mandi"
+      },
+      {
+        "name": "Shimla"
+      },
+      {
+        "name": "Sirmaur"
+      },
+      {
+        "name": "Solan"
+      },
+      {
+        "name": "Una"
+      }
+    ]
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
