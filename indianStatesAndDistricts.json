@@ -703,5 +703,156 @@
         "name": "Una"
       }
     ]
+  },
+  {
+    "stateName": "Jammu and Kashmir",
+    "capital": "Srinagar",
+    "capitalB": "Jammu",
+    "districts": [
+      {
+        "name": "Anantnag"
+      },
+      {
+        "name": "Badgam"
+      },
+      {
+        "name": "Bandipore"
+      },
+      {
+        "name": "Baramula"
+      },
+      {
+        "name": "Doda"
+      },
+      {
+        "name": "Ganderbal"
+      },
+      {
+        "name": "Jammu"
+      },
+      {
+        "name": "Kargil"
+      },
+      {
+        "name": "Kathua"
+      },
+      {
+        "name": "Kishtwar"
+      },
+      {
+        "name": "Kulgam"
+      },
+      {
+        "name": "Kupwara"
+      },
+      {
+        "name": "Leh"
+      },
+      {
+        "name": "Pulwama"
+      },
+      {
+        "name": "Punch"
+      },
+      {
+        "name": "Rajouri"
+      },
+      {
+        "name": "Ramban"
+      },
+      {
+        "name": "Reasi"
+      },
+      {
+        "name": "Samba"
+      },
+      {
+        "name": "Shupiyan"
+      },
+      {
+        "name": "Srinagar"
+      },
+      {
+        "name": "Udhampur"
+      }
+    ]
+  },
+  {
+    "stateName": "Jharkhand",
+    "capital": "Ranchi",
+    "districts": [
+      {
+        "name": "Bokaro"
+      },
+      {
+        "name": "Chatra"
+      },
+      {
+        "name": "Deoghar"
+      },
+      {
+        "name": "Dhanbad district"
+      },
+      {
+        "name": "Dumka"
+      },
+      {
+        "name": "East Singhbhum"
+      },
+      {
+        "name": "Gharwa"
+      },
+      {
+        "name": "Giridih"
+      },
+      {
+        "name": "Godda"
+      },
+      {
+        "name": "Gumla"
+      },
+      {
+        "name": "Hazaribagh"
+      },
+      {
+        "name": "Jamtara"
+      },
+      {
+        "name": "Khunti"
+      },
+      {
+        "name": "Koderma"
+      },
+      {
+        "name": "Latehar"
+      },
+      {
+        "name": "Lohardaga"
+      },
+      {
+        "name": "Pakur"
+      },
+      {
+        "name": "Palamu"
+      },
+      {
+        "name": "Ramgarh"
+      },
+      {
+        "name": "Ranchi"
+      },
+      {
+        "name": "Sahebganj"
+      },
+      {
+        "name": "Saraikela Kharsawan"
+      },
+      {
+        "name": "Simdega"
+      },
+      {
+        "name": "West Singhbhum"
+      }
+    ]
   }
 ]
